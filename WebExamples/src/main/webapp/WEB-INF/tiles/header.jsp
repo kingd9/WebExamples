@@ -1,4 +1,4 @@
-<%@ taglib  uri="http://tiles.apache.org/tags-tiles"  prefix="tiles" %> 
+<%@ taglib  prefix="tiles" uri="http://tiles.apache.org/tags-tiles"   %> 
 <h2>
 	Header
 </h2>
